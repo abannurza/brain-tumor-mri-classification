@@ -6,7 +6,7 @@ This repository contains a MATLAB-based brain tumor classification project using
 Brain tumors are serious medical conditions that require early detection and accurate diagnosis to support proper treatment. In this project, a brain tumor classification system was developed using coronal MRI images and texture-based features. The system is designed to assist early detection by combining image preprocessing, feature extraction, and neural network-based classification.
 
 ## Dataset
-This project is based on a **brain MRI dataset sourced from IEEE DataPort**.
+This project is based on a **"Brain MRI ND-5 Dataset" sourced from IEEE DataPort**.
 
 The original dataset contains brain MRI images from three imaging planes:
 - Axial
@@ -32,7 +32,7 @@ Total:
 
 ### Note
 The full raw dataset from IEEE DataPort is not completely uploaded in this repository.  
-To keep the repository concise and organized, only the selected and processed data used in this study are included.
+To keep the repository concise and organized, only the selected data used in this study are included.
 
 ## Preprocessing
 Before feature extraction, all MRI images go through the following preprocessing steps:
