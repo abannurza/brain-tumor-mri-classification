@@ -143,15 +143,7 @@ The app allows users to:
 - Medical Image Processing
 - Pattern Recognition
 
-## Suggested Repository Structure
-```text
-brain-tumor-mri-classification/
-├── README.md
-├── code/
-│   ├── preprocessing/
-│   ├── feature_extraction/
-│   ├── classification/
-│   └── app/
-├── dataset/
-├── results/
-└── models/
+## Author
+**Aban Athaya Nurza**  
+Electrical Engineering  
+Universitas Muhammadiyah Yogyakarta
